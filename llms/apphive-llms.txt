@@ -1,0 +1,23 @@
+# Apphive
+
+> Apphive is a no-code / AI-assisted platform for building native iOS and Android mobile applications without writing code. A visual drag-and-drop editor with live phone previews lets makers assemble screens and logic, wire in native device capabilities (GPS/maps, push notifications, camera, authentication, databases, in-app purchases), connect third-party APIs and payment gateways (Stripe, Openpay), and compile and publish finished apps to the Apple App Store and Google Play. Apphive is backed by 500 Global.
+
+Apphive is a company profile in the API Evangelist network. It publishes no first-party developer REST API or OpenAPI definition; its "API" surface is inside the builder — custom integrations, cloud functions, and webhooks that the apps you build consume. This file is generated from the API Evangelist catalog for this provider.
+
+## Product
+- [Apphive](https://apphive.io): No-code / AI mobile app builder for iOS and Android.
+- [Features](https://apphive.io/features): GPS, maps, databases, notifications, payments, and API integrations.
+- [Pricing](https://apphive.io/pricing): Free, Premium, and Unlimited tiers.
+
+## Documentation
+- [Documentation](https://docs.apphive.io/en/): Builder guides, global functions (cloud functions, webhooks), and custom integrations.
+- [Community](https://comunidad.apphive.io): User community and support forum.
+- [YouTube](https://www.youtube.com/c/Apphive): Video tutorials.
+
+## Account & Legal
+- [Sign Up](https://apphive.dev): Create an account and start building.
+- [Terms and Conditions](https://apphive.dev/terms-and-conditions)
+- [Privacy Policy](https://apphive.dev/privacy)
+
+## Support
+- Email: support@apphive.io

@@ -1,8 +1,28 @@
 aid: apphive
 name: Apphive
-description: Apphive is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Apphive is a no-code, AI-assisted platform for building native iOS and Android
+  mobile applications without writing code. A visual drag-and-drop editor with
+  live phone previews lets makers assemble screens and app logic, add native
+  device capabilities (GPS and maps, push notifications, camera, authentication,
+  databases, in-app purchases), connect third-party APIs and payment gateways
+  such as Stripe and Openpay, and then compile and publish finished apps to the
+  Apple App Store and Google Play. Vertical marketplace templates cover delivery,
+  taxi, e-commerce, real estate, gym management, and more. Apphive is backed by
+  500 Global. This profile is maintained in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/apphive/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://apphive.io/brand/og.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,6 +34,13 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- No-Code
+- Low-Code
+- App Builder
+- Mobile
+- iOS
+- Android
+- App Development
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://apphive.io
+- type: DeveloperPortal
+  url: https://docs.apphive.io/en/
+- type: Documentation
+  url: https://docs.apphive.io/en/
+- type: Pricing
+  url: https://apphive.io/pricing
+- type: SignUp
+  url: https://apphive.dev
+- type: TermsOfService
+  url: https://apphive.dev/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://apphive.dev/privacy
+- type: Support
+  url: https://comunidad.apphive.io
+- type: DomainSecurity
+  url: security/apphive-domain-security.yml
+- type: LLMsTxt
+  url: llms/apphive-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
