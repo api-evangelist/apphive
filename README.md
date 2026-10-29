@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apphive is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Apphive is a no-code, AI-assisted platform for building native iOS and Android mobile applications without writing code. A visual drag-and-drop editor with live phone previews lets makers assemble screens and app logic, add native device capabilities (GPS and maps, push notifications, camera, authentication, databases, in-app purchases), connect third-party APIs and payment gateways such as Stripe and Openpay, and then compile and publish finished apps to the Apple App Store and Google Play. Vertical marketplace templates cover delivery, taxi, e-commerce, real estate, gym management, and more. Apphive is backed by 500 Global. This profile is maintained in the API Evangelist network.
 
-Backed by: 500-global — https://apphive.io
+**Areas:** Company · No-Code · Low-Code · App Builder · Mobile · iOS · Android · App Development
+
+## Apphive on APIs.io
+
+Everything profiled for Apphive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apphive/](https://apis.io/providers/apphive/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Apphive Domain Security](https://apis.io/security/apphive/apphive-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apphive.io)
+- [Documentation](https://docs.apphive.io/en/)
+- [Pricing](https://apphive.io/pricing)
+- [Sign up](https://apphive.dev)
+- [Support](https://comunidad.apphive.io)
+- [Terms of service](https://apphive.dev/terms-and-conditions)
+- [Privacy policy](https://apphive.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/apphive/](https://apis.io/providers/apphive/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Apphive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apphive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
